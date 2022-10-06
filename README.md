@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 welcome to my GitHub Space.
+
+About me? Sure why not
+- 🔭 I’m currently working on: a new Teams Chat bot
+- 🌱 I’m currently learning: Flutter, React and more, never stop learning .-)
+- 👯 I’m looking to collaborate on: More Flutter Projects
+- 📫 How to reach me: https://www.linkedin.com/in/martinkl/
+
 
 <!--
 **mklarsen/mklarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
